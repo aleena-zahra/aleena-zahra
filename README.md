@@ -4,7 +4,6 @@
 
 🔬  I’m actively building my foundation in data analysis, machine learning, and scientific thinking—one project at a time. My goal? To contribute to research that helps us understand how we think, feel, and make decisions.
 
----
 
 ## 🧠 Current Interests
 - Machine Learning & AI (especially interpretability & real-world applications)
@@ -12,7 +11,6 @@
 - Data visualization as a tool for insight and storytelling
 - Interactive media: games, simulations, and educational tech
 
----
 
 ## 🛠️ Tech & Tools I Work With
 
@@ -36,13 +34,12 @@
 
 ## 🌱 What I’m Building
 
-- 🧩 **Pomodist**: A productivity app built in C# with MySQL—includes Pomodoro timers, multilingual support (EN/UR/KR), and a personal calendar.  
-- 🎮 **Game dev projects** using Unity + PlayroomKit for multiplayer learning experiences.  
-- 📊 **Data projects** exploring behavioral patterns and visualization storytelling.  
+-  Data Projects exploring brain imaging and brain patterns
+-  A CGPA predictor for univeristy students based on machine learning models and mlrm
 
 
 
-## 📌 What’s Next
+## 📌 What’s More
 
 I'm looking for internships and research roles where I can:
 - Work with machine learning in real-world or research settings  
