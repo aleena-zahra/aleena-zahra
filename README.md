@@ -7,7 +7,7 @@
 
 ## 🧠 Current Interests
 - Machine Learning & AI (especially interpretability & real-world applications)
-- Brain-computer interfaces (BCI), cognitive modeling, and neuroAI (exploring soon!)
+- Brain Imaging, cognitive modeling, and neuroAI (exploring soon!)
 - Data visualization as a tool for insight and storytelling
 - Interactive media: games, simulations, and educational tech
 
