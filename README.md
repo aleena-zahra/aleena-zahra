@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Aleena Zahra
 
+# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=ec6cb0&center=true&vCenter=true&height=25&lines=Heyy%2C+I'm+Aleena+Zahra+!!;A+Data-Science+Student%2C;Passionate+UI%2FUX+Designer%2C;Research+Enthusiast+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 🎓 I'm a Data Science undergrad based in Islamabad, passionate about using code to explore big, complex questions—especially at the intersection of machine learning, neuroscience, and human behavior.
 
 🔬  I’m actively building my foundation in data analysis, machine learning, and scientific thinking—one project at a time. My goal? To contribute to research that helps us understand how we think, feel, and make decisions.
